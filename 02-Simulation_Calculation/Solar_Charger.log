@@ -1,0 +1,21 @@
+Circuit: * C:\Users\vtolenti89\Documents\05_Electronics\02-Projects\night-light-sensor\02-Simulation_Calculation\Solar_Charger.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Sun Jul 05 18:06:32 2020
+Total elapsed time: 0.314 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 26439
+traniter = 26425
+tranpoints = 6477
+accept = 4968
+rejected = 1509
+matrix size = 21
+fillins = 22
+solver = Normal
+Matrix Compiler1: 2.06 KB object code size  0.4/0.2/[0.2]
+Matrix Compiler2: 2.03 KB object code size  0.2/0.2/[0.2]
+
