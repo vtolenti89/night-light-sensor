@@ -2,20 +2,25 @@ Circuit: * C:\Users\vtolenti89\Documents\05_Electronics\02-Projects\night-light-
 
 .OP point found by inspection.
 
-Date: Mon Jul 13 22:12:24 2020
-Total elapsed time: 0.616 seconds.
+i_in: RMS(i(v1))=0.0368667 FROM 0.25 TO 5
+v_out: RMS(v(out))=3.84666 FROM 0.25 TO 5
+iout: RMS(i(r6))=0.0030622 FROM 0.25 TO 5
+
+
+Date: Fri Jul 17 18:17:06 2020
+Total elapsed time: 133.214 seconds.
 
 tnom = 27
 temp = 27
 method = modified trap
-totiter = 37688
-traniter = 37688
-tranpoints = 9696
-accept = 7055
-rejected = 2641
-matrix size = 13
-fillins = 4
+totiter = 34641885
+traniter = 34641885
+tranpoints = 9334479
+accept = 6613470
+rejected = 2721009
+matrix size = 23
+fillins = 16
 solver = Normal
-Matrix Compiler1: 1.04 KB object code size  0.3/0.2/[0.1]
-Matrix Compiler2: 1.15 KB object code size  0.2/0.2/[0.1]
+Matrix Compiler1: 2.36 KB object code size  0.5/0.3/[0.2]
+Matrix Compiler2: 2.11 KB object code size  0.2/0.3/[0.2]
 
